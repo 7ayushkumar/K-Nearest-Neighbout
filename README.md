@@ -1,2 +1,2 @@
-# K-Nearest-Neighbout
+# K-Nearest-Neighbour
 Essentials to find optimal k value
